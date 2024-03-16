@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![ProfileViews](https://komarev.com/ghpvc/?username=Barto670)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barto670&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Barto670&theme=dark)
