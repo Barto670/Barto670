@@ -1,9 +1,6 @@
-![ProfileViews](https://komarev.com/ghpvc/?username=Barto670)
 ##
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barto670&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Barto670&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Barto670&theme=dark)
-##
+### ![ProfileViews](https://komarev.com/ghpvc/?username=Barto670)
+
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-181717?logo=python) ‎
 ![HTML5](https://img.shields.io/badge/-HTML5-181717?logo=html5) ‎
@@ -24,3 +21,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-181717?logo=figma) ‎
 ![RaspberryPi](https://img.shields.io/badge/-Raspberry_Pi-181717?logo=raspberrypi&logoColor=cd2355) ‎
 ![Arduino](https://img.shields.io/badge/-Arduino-181717?logo=arduino&logoColor=009297) ‎
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barto670&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Barto670&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Barto670&theme=dark)
+##
