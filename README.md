@@ -1,6 +1,3 @@
-
-### ![ProfileViews](https://komarev.com/ghpvc/?username=Barto670)
-##
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-181717?logo=python) ‎
 ![HTML5](https://img.shields.io/badge/-HTML5-181717?logo=html5) ‎
