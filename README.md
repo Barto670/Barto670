@@ -1,6 +1,6 @@
-##
-### ![ProfileViews](https://komarev.com/ghpvc/?username=Barto670)
 
+### ![ProfileViews](https://komarev.com/ghpvc/?username=Barto670)
+##
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-181717?logo=python) ‎
 ![HTML5](https://img.shields.io/badge/-HTML5-181717?logo=html5) ‎
@@ -25,4 +25,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barto670&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Barto670&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Barto670&theme=dark)
-##
